@@ -31,6 +31,7 @@ object MainWindow extends MainFrame {
 		//contents += new MainFrame() {
 			//preferredSize = new Dimension(700, 700)
 		//}
+
 		contents += new Label("Redy")
 		contents += new Label("Redy")
 		contents += new Label("Redy")
